@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.markdown(f"22200409 Shin Jimin")
+
 st.title("Order")
 
 st.image("menu.png", width=300)
